@@ -2,5 +2,5 @@
   (:use [levenshtein.core])
   (:use [clojure.test]))
 
-(deftest replace-me ;; FIXME: write
-  (is false "No tests have been written."))
+(deftest levenshtein-distance ;; Calculate the Levenshtein distance between two strings.
+  (is (= 0 (distance (str) (str)))))
