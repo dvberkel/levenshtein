@@ -1,6 +1,8 @@
 levenshtein
 ===========
 
+[![Build Status](https://secure.travis-ci.org/dvberkel/levenshtein.png?branch=master)](http://travis-ci.org/dvberkel/levenshtein)
+
 Levenshtein is a [clojure](http://clojure.org/ "Homepage of clojure")
 project. It computes the 
 [Levenshtein distance](http://en.wikipedia.org/wiki/Levenshtein_distance "Wikipedia on Levenshtein Distance").
