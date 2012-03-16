@@ -1,3 +1,3 @@
 (ns levenshtein.core)
 
-(defn distance [x y] 0)
+(defn distance [x y] (.length y))
