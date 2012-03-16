@@ -3,18 +3,18 @@ levenshtein
 
 Levenshtein is a [clojure](http://clojure.org/ "Homepage of clojure")
 project. It computes the 
-[Levenshtein Distancec](http://en.wikipedia.org/wiki/Levenshtein_distance "Wikipedia on Levenshtein Distance").
+[Levenshtein distance](http://en.wikipedia.org/wiki/Levenshtein_distance "Wikipedia on Levenshtein Distance").
 
 Environment
 -----------
 
-We use [leiningen](https://github.com/technomancy/leiningen "GitHub on leiningen")
+We use [leiningen](https://github.com/technomancy/leiningen "GitHub on leiningen").
 
 > Leiningen is for automating Clojure projects without setting your
 > hair on fire.
 
 See the 
-[tutorial](https://github.com/technomancy/leiningen/blob/preview/doc/TUTORIAL.md "Tutorial on the use of leiningen")
+[tutorial](https://github.com/technomancy/leiningen/blob/preview/doc/TUTORIAL.md "Tutorial on the use of leiningen").
 
 License
 -------
