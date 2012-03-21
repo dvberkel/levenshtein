@@ -8,7 +8,7 @@
     (if (= 0 (.length y))
       (.length x)
       (if (= (get x 0) (get y 0))
-        (abs (- (.length x) (.length y)))
+        (distance (subs x 1) (subs y 1))
 	(2)  
       )
     )
